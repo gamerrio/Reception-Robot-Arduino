@@ -1,0 +1,16 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.6
+pvporcupine==3.0.2
+pvrecorder==1.2.2
+python-dotenv==1.0.1
+pyttsx3==2.90
+requests==2.31.0
+SpeechRecognition==3.10.1
+typing_extensions==4.10.0
+urllib3==2.2.1
+opencv-python
+serial
+python-dotenv
+transformers
+torch
